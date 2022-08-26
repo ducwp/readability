@@ -1,5 +1,5 @@
 {
-    "name": "fivefilters/readability.php",
+    "name": "ducwp/readability.php",
     "type": "library",
     "description": "A PHP port of Readability.js",
     "keywords": ["readability", "html"],
